@@ -9,3 +9,4 @@ CÓDIGOS USADOS NO CMD:
 cd \
 cd office
 setup.exe /configure configuration.xml
+ltsc/preview/pacote-office-completo
