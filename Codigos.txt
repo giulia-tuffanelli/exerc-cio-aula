@@ -1,0 +1,11 @@
+SITES DO VÍDEO:
+
+site oficial 1 office deployment tool: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+
+site oficial 2: https://learn.microsoft.com/en-us/office/ltsc/preview/install-ltsc-preview
+
+CÓDIGOS USADOS NO CMD:
+
+cd \
+cd office
+setup.exe /configure configuration.xml
